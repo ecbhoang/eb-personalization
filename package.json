@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ecbhoang/eb-personalization/issues"
   },
-  "homepage": "https://github.com/ecbhoang/eb-personalization#readme"
+  "homepage": "https://github.com/ecbhoang/eb-personalization#readme",
+  "publishConfig": {
+    "@ecbhoang:registry": "https://npm.pkg.github.com"
+  }
 }

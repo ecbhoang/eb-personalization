@@ -1,0 +1,22 @@
+{
+  "name": "eb-personalization",
+  "version": "1.0.0",
+  "description": "Personalization Form for Ecombest",
+  "main": "bundle.eb-personalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecbhoang/eb-personalization.git"
+  },
+  "keywords": [
+    "ecb"
+  ],
+  "author": "ecb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecbhoang/eb-personalization/issues"
+  },
+  "homepage": "https://github.com/ecbhoang/eb-personalization#readme"
+}
